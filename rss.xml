@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SonnyTVo]]></title>
         <description><![CDATA[SonnyTVo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonnytvo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 00:13:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 00:13:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonnytvo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Jesus, Jesuits, & Jiu Jitsu</p>]]></description>
-            <link>undefinedjesus-jesuits-and-jiu-jitsu/index.html</link>
+            <link>https://thegrid.ai/sonnytvo/jesus-jesuits-and-jiu-jitsu/index.html</link>
             <guid isPermaLink="false">2365c2a0-26f9-4e23-b7dd-b12876c6a7f0</guid>
-            <pubDate>Sun, 10 Jul 2016 00:12:43 GMT</pubDate>
+            <pubDate>Sun, 10 Jul 2016 00:13:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
